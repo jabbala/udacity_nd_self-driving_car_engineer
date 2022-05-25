@@ -1,2 +1,4 @@
-# udacity_nd_self-driving_car_engineer
-Udacity's Self-Driving Car Engineer Nanodegree program projects
+# Self Driving Car Engineer Nanodegree by Udacity
+
+This repository contains code and writeups for projects and labs completed as a part of Udacity's Self Driving Car Nanodegree program.
+
